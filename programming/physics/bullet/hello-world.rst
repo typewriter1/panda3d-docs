@@ -223,7 +223,7 @@ The Program
 Let's put everything learned on this page together into a single script, which
 is shown below. It assumes that you have an .egg model of a 1 by 1 by 1 box.
 
-when running the script you will see a box falling down onto an invisible plane.
+When running the script you will see a box falling down onto an invisible plane.
 The plane is invisible simply because we didn't parent a visual mode below the
 plane's rigid body node. Of course we could have done so.
 
